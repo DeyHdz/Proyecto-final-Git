@@ -1,24 +1,22 @@
 # UN POCO SOBRE MI :smile_cat:	:alien:	
 
+![Yopo](https://github.com/Thacha26/Proyecto-final-Git/blob/Informacion/Imagenes/7f82c43b-fbdc-4cb5-a2a7-a3fa49770c31.jpg)
+
 ## Soy Frida Thais :smirk_cat:	
 
-Hola! soy Frida, pero me gusta que me digan Thais, tengo **18 años** estoy próxima a cumplir 19 el 26 de mayo.
-Estoy estudiando la carrera de **Ciencias de la computación, en la UNAM**. Soy hija única :)
+Hola! soy Frida, pero me gusta que me digan Thais, tengo **18 años** estoy próxima a cumplir 19 el 26 de mayo del 2006.
+Estoy estudiando la carrera de **Ciencias de la computación, en la UNAM**.
 
 - Correo: fridathais26@ciencias.unam.mx
 
 - Teléfono: 5552148247
 
-## Idiomas :monocle_face:
+![Kira](https://github.com/Thacha26/Proyecto-final-Git/blob/Informacion/Imagenes/4ee2975a-bf8c-4247-9e44-7859e8c3af78.jpg)
 
-- *Inglés (B2)*
-- *Español (lengua madre)* 
+## Idiomas
 
-## Cumpleaños :japanese_ogre:	
-
-- *26 de mayo del 2006*
-
-Así es, soy géminis, jsaskja, aunque nunca entendí del todo esto de los signos, pero me gusta decirlo porque siempre me tiran hate por ser géminis.
+- * Inglés (B2)*
+- * Español (nativo)* 
 
 ## Hobbies :kissing:	
 
@@ -26,3 +24,5 @@ Así es, soy géminis, jsaskja, aunque nunca entendí del todo esto de los signo
 - Escuchar música
 - Dormir
 - Ver series
+
+![grabado](https://github.com/Thacha26/Proyecto-final-Git/blob/Informacion/Imagenes/e07617e3-401a-41ab-9845-aba15b5bf507.jpg)
