@@ -1,5 +1,5 @@
 # UN POCO SOBRE MI :smile_cat:	:alien:	
-![Con mis amigas en Torres, CCH Sur](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/7f82c43b-fbdc-4cb5-a2a7-a3fa49770c31.jpg)
+![Con mis amigas en Torres, CCH Sur](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/Imagenes/7f82c43b-fbdc-4cb5-a2a7-a3fa49770c31.jpg)
 
 ## Soy Frida Thais :smirk_cat:	
 
