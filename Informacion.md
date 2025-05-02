@@ -1,4 +1,5 @@
 # UN POCO SOBRE MI :smile_cat:	:alien:	
+![7f82c43b-fbdc-4cb5-a2a7-a3fa49770c31.jpg]
 
 ## Soy Frida Thais :smirk_cat:	
 
