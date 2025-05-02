@@ -1,4 +1,4 @@
-# Música
+# Música :headphones:	:musical_note:	:notes:	
 
 En realidad me gustan diversos géneros musicales, como por ejemplo:
 
@@ -12,7 +12,7 @@ En realidad me gustan diversos géneros musicales, como por ejemplo:
 
 Y así podría seguir y seguir con la lista
 
-## Música recomendada
+## Música recomendada :star2:	:star2:	:musical_note:		:star2:	:star2:
 
 ![Gattito](https://img.freepik.com/vector-premium/lindo-gato-escuchando-musica-auriculares_663547-42.jpg)
 
