@@ -19,27 +19,27 @@ Debo de admitir que he engordado a Kira, pero la veterinaria dice que aún está
 
 ![Kira](https://github.com/Thacha26/Proyecto-final-Git/blob/Informacion/Imagenes/4ee2975a-bf8c-4247-9e44-7859e8c3af78.jpg)
 
-## Idiomas
+## Idiomas :earth_americas:	:new_moon_with_face:	
 
-- *Inglés (B2)*
-- *Español (nativo)* 
+- **Inglés (B2)**
+- **Español (nativo)** 
 
-## Idiomas que me gustaría aprender
+## Idiomas que me gustaría aprender :nerd_face:	:point_up:	
 
-- [ ]*Chino*
-- [ ]*Japonés*
-- [ ]*Italiano*
+- [ ] **Chino**
+- [ ] **Japonés**
+- [ ] **Italiano**
 
-## Comida
+## Comida :relieved:	:yum:	
 
 Amo, realmente, AMO LA COMIDA, tenía una amiga que para quitarme el enojo me daba comida, pero tengo mis favoritos:
 
-- _Gomitas (sobre todo las ácidas)_
-- _Enmoladas_
-- _Espagueti a la boloñesa_
-- _Hamburguesas_
+- __Gomitas (sobre todo las ácidas)__
+- __Enmoladas__
+- __Espagueti a la boloñesa__
+- __Hamburguesas__
 
-Recentemente descubrí, que la comida *Tailandesa* es sin duda mi favorita, la recomiendo apliamente.
+Recentemente descubrí, que la comida **Tailandesa** es sin duda mi favorita, la recomiendo apliamente.
 
 ## Hobbies :kissing:	
 
