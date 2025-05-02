@@ -1,4 +1,4 @@
-# Música :pinched_fingers: :headphones:	:musical_note:	
+# Música
 
 En realidad me gustan diversos géneros musicales, como por ejemplo:
 
@@ -12,9 +12,7 @@ En realidad me gustan diversos géneros musicales, como por ejemplo:
 
 Y así podría seguir y seguir con la lista
 
-## Música recomendada :notes:	:star2:	:star2:	:star2:	
-
-![Gatito](https://img.freepik.com/vector-premium/lindo-gato-escuchando-musica-auriculares_663547-42.jpg)
+## Música recomendada
 
 - "Francés Limón", Los Enanitos Verdes [https://youtu.be/jIwX3YozFQ4?si=69Xp1AuKQ_7XmWny]
 - "I think I'm OKAY", mgk [https://youtu.be/wK-8TCDrbV8?si=eKiA4Hp2T40QMy73]
