@@ -22,3 +22,11 @@ Y así podría seguir y seguir con la lista
 | "Spring"                    | Kim Jung Mi        | [Ver en YouTube](https://youtu.be/y-HggMa1c4Q?si=PUy4vcXfzze4A4Gr)    | ![Kim Jung Mi](https://i.scdn.co/image/ab67616d0000b2731a5d5fe724869c8057a4c6a3) |
 | RAM (Álbum completo)        | Paul McCartney     | -                                                                     | ![RAM Album](https://i.scdn.co/image/ab67616d0000b2731a1e5fe6d1a8aec5a9b0e9a5) |
 | "Uncle Albert/Admiral Halsey" | Paul McCartney     | [Ver en YouTube](https://youtu.be/8Y8fDsU0hX8?si=gPkvinjEz98F6Ae1)    | ![Paul McCartney](https://i.scdn.co/image/ab6761610000e5eb5a1f9e9c80e1a0e9e5a9b0e5) |
+<<<<<<< HEAD
+=======
+
+---
+---
+
+Hola, soy **Giselle**, qué padre que escuches muchos géneros musicales 😄. Te recomiendo a una artista emergente que se llama Renee, una de mis canciones favoritas de ella se llama El Disfraz.
+>>>>>>> main
