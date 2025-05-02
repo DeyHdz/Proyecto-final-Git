@@ -1,3 +1,4 @@
+.png
 echo "*.jpg" >> .gitignore
 echo "*.png" >> .gitignore
 echo "/Imagenes/" >> .gitignore
