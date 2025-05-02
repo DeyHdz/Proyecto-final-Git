@@ -22,7 +22,7 @@ Y así podría seguir y seguir con la lista
 | "Spring"                    | Kim Jung Mi        | [Ver en YouTube](https://youtu.be/y-HggMa1c4Q?si=a4VwEQ32n1bnL8TT) | ![spring](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/Imagenes/spring.jpeg) |
 | RAM (Álbum completo)        | Paul McCartney     | [Ver en YouTube](https://youtube.com/playlist?list=OLAK5uy_kxq99uv8xu8Uoe3zT_ISSlIDBLcnSjvbo&si=PY9HzrYNa6-d7y8k) | ![RAM Album](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/Imagenes/Captura%20desde%202025-05-02%2012-32-20.png) |
 | "Uncle Albert/Admiral Halsey" | Paul McCartney     | [Ver en YouTube](https://youtu.be/8Y8fDsU0hX8?si=gPkvinjEz98F6Ae1)    | ![Paul McCartney](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDFqb1s740_-ahorn9BXfYyQzw1t2NZR5u4hAkYAD7k6v8v61kuO2Hs8vLYhtMOnzIesKza_QiEDgy_mciX13T12XeHUzvE9X3z-BkHo563jj-Kme79GxcmnscQLGCPZznxjcUXDRA67ditYskEUf6r90Sm7JvsXmBtsiCJ_j6MLAnXv5Rw1CesPEwFw/w1200-h630-p-k-no-nu/carne%20para%20la%20picadora.jpg) |
-| " 70s Japanese Jazz" | Artistas varios|[Ver en Youtube](https://youtu.be/s-jtdKjzQaE?si=OizE9yBKemtyttUA)| ![Japanese jazz](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/Imagenes/download.jpg) |
+| " 70s Japanese Jazz" | Artistas varios|[Ver en Youtube](https://youtu.be/s-jtdKjzQaE?si=OizE9yBKemtyttUA)| ![Japanese jazz](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/Imagenes/japanese.jpeg) |
 | "Cumbias de microbusero fresa"| Artistas varios|[Ver en Youtube](https://youtube.com/playlist?list=PLlKtzzBWvv6rkwLHQHwKKjx1UuI3xxODW&si=IzTiSvFdpIOFRbxm)| ![cumbias](https://github.com/Thacha26/Proyecto-final-Git/blob/Clasificacion/Imagenes/microbus.jpeg)|
 
 
