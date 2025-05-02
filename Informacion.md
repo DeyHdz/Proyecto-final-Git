@@ -8,12 +8,14 @@ Estoy estudiando la carrera de **Ciencias de la computación, en la UNAM**. Soy 
 
 - Correo: fridathais26@ciencias.unam.mx
 
+- Instagram [https://www.instagram.com/thacha_1is/]
+
 - Teléfono: 5552148247
 
 ## Idiomas :monocle_face:
 
 - *Inglés (B2)*
-- *Español (lengua madre)* 
+- *Español (nativo)* 
 
 ## Cumpleaños :japanese_ogre:	
 
@@ -27,3 +29,4 @@ Así es, soy géminis, jsaskja, aunque nunca entendí del todo esto de los signo
 - Escuchar música
 - Dormir
 - Ver series
+
