@@ -29,3 +29,4 @@ Y así podría seguir y seguir con la lista
 ---
 
 Hola, soy **Giselle**, qué padre que escuches muchos géneros musicales 😄. Te recomiendo a una artista emergente que se llama Renee, una de mis canciones favoritas de ella se llama El Disfraz.
+Hola, soy **Dey**, me encantan tus generos de musica,  ten por seguro que escuchare tus recomendaciones, ocupo nueva musica. 🎵🤗
